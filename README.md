@@ -63,3 +63,4 @@ You need to set the permissions needed. You need `users.profile:read` and `users
 
 Slack will then give you an OAuth access token. Copy it and stick it in `config/slack.yml`.
 
+[![FOSSA Status](https://app.fossa.com/api/projects/custom%2B23799%2Fgithub.com%2Fivar51dub%2Fslack-wifi-status.svg?type=large)](https://app.fossa.com/projects/custom%2B23799%2Fgithub.com%2Fivar51dub%2Fslack-wifi-status?ref=badge_large)
