@@ -1,4 +1,4 @@
-[![FOSSA Status](https://app.fossa.com/api/projects/custom%2B23799%2Fgithub.com%2Fivar51dub%2Fslack-wifi-status.svg?type=large)](https://app.fossa.com/projects/custom%2B23799%2Fgithub.com%2Fivar51dub%2Fslack-wifi-status?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/custom%2B23799%2Fgithub.com%2Fivar51dub%2Fslack-wifi-status.svg?type=small)](https://app.fossa.com/projects/custom%2B23799%2Fgithub.com%2Fivar51dub%2Fslack-wifi-status?ref=badge_small)
 
 # Slack Wifi Status
 
